@@ -10,15 +10,15 @@
   ],
   "dependencies": {
     "@hapi/address": "2.x.x",
-    "@hapi/formula": "1.x.x",
+    "@hapi/formula": "2.x.x",
     "@hapi/hoek": "8.x.x",
     "@hapi/pinpoint": "1.x.x",
     "@hapi/topo": "3.x.x"
   },
   "devDependencies": {
     "@hapi/bourne": "1.x.x",
-    "@hapi/code": "6.x.x",
-    "@hapi/lab": "20.x.x",
+    "@hapi/code": "7.x.x",
+    "@hapi/lab": "21.x.x",
     "@hapi/joi-legacy-test": "npm:@hapi/joi@15.x.x"
   },
   "scripts": {
